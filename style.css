@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 20px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+main{
+    margin: 20px;
+}
+
+.contato{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.atenção{
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
+}
+
+.sobre{
+    text-align: center;
+    font-style: oblique;
+    margin-top: 50px;
+}
+
+.botão-sobre{
+    margin-top: 30px;
+}
+
+.adote{
+    margin-top: 30px;
+}
+
+.shibainu{
+    width: 400px;
+    height: 300px;
+}
+
+.pug{
+    width: 400px;
+    height: 300px;
+}
+
+.chowchow{
+    width: 400px;
+    height: 300px;
+}
+div{
+    display: inline-block;
+}
+
+.rodapé{
+    margin: 20px;
+}
+
+.titulorodapé{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+li{
+    margin: 20px;
+}
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNZVsoKu4cr0XALG8o-0kSKbfI4CikOvKwQ&usqp=CAU);
+    background-position-y: center;
+    background-position-x: center;
+}
+
+p{
+ 
+    font-style: italic;
+    font-size: 20px;
+}
+
+h2{
+    font-style: oblique;
+    font-size: 30px;
+}
+
+h1{
+    font-style: oblique;
+    font-size: 40px;
+}
